@@ -16,8 +16,8 @@ namespace Evaluacion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new MLogin());
-            Application.Run(new ResumenPorIndicador());
+            Application.Run(new MLogin());
+           // Application.Run(new ResumenPorIndicador());
         }
     }
 }
